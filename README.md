@@ -72,5 +72,5 @@ Once both servers are running:
 * The frontend will launch on `http://localhost:5173/`.
 
 ## Documentation & Demo Video
-* 📽️ **Demo Video**: [Watch Here](https://drive.google.com/file/d/1jq7m1iODPLwcQ7E6XrOjYq_SBi6kAjb5/view?usp=drive_link)
+* 📽️ **Demo Video**: [Watch Here](https://drive.google.com/file/d/1rJs5QpHS3CgDTEZIOSbq4UEvn_lbuiJT/view?usp=sharing)
 * 📄 **Documentation**: [View Here](https://docs.google.com/document/d/15t_XpUDQ_PqpVcOPasHo7y4ltaea03oZ/edit?usp=drive_link&ouid=112434957415783471811&rtpof=true&sd=true)
